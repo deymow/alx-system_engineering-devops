@@ -10,4 +10,6 @@
 	Owner: no permission at all
 	Group: no permission at all
 	Other users: all the permisions
-9, 
+9, Script that set the mode of the file 'hello' to -rwxr-x-wx
+10, Script that set the mode of file 'hello' the same as olleh's mode
+11,  
