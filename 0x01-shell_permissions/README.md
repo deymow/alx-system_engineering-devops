@@ -6,4 +6,8 @@
 5, Script that adds execute permission to the owner of the file 'hello'
 6, Script that adds execute permissions to the owner and the group owner and read permissions to other users of the file 'hello'
 7, Script that adds execute permissions to the owner, the group owner, and other users of file 'hello'
-8, 
+8, Script that set the following permissions
+	Owner: no permission at all
+	Group: no permission at all
+	Other users: all the permisions
+9, 
