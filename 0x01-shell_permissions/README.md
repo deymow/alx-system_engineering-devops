@@ -12,4 +12,6 @@
 	Other users: all the permisions
 9, Script that set the mode of the file 'hello' to -rwxr-x-wx
 10, Script that set the mode of file 'hello' the same as olleh's mode
-11,  
+11, Script to add execute permissions to all subdirectories of the current directory for the owner, the group owner and all other users
+12, Script to create a directory called my_dir with permission 751 in the working directory
+13,  
