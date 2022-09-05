@@ -6,5 +6,6 @@
 5, Script to display the first 10 lines in /etc/passwd
 6, Script to display the 3rd line of file iacta
 7, Script to create file that contains Best School in it
-8,
+8, Script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
 9, Script that duplicates the last line of the file iacta 
+10, Script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
