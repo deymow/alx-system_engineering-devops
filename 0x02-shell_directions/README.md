@@ -3,3 +3,4 @@ Script that displays confused smiley
 Script that displays content of /etc/passwd
 Script to display content of etc/passwd and etc/hosts
 Script to display last 10 lines of /etc/passwd
+Script to display the first 10 lines in /etc/passwd
