@@ -9,4 +9,6 @@
 6, Script that creates a new local variable.
 	Name: BEST
 	Value: School
-7,
+7, Script that creates a new global variable.
+	Name: BEST
+	Value: School
