@@ -13,4 +13,6 @@
 	Name: BEST
 	Value: School
 8, Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
-9, 
+9, script that prints the result of POWER divided by DIVIDE, followed by a new line.
+	POWER and DIVIDE are environment variables 
+10, 
